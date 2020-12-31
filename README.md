@@ -1,2 +1,0 @@
-# NINJA-RUN
-Game
