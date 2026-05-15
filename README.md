@@ -2,10 +2,6 @@
 
 A Python side-scroller built with Pygame. Run, jump, and dodge hurdles — built from scratch with a hand-rolled physics engine, character movement logic, and frame-by-frame sprite animation.
 
-## Demo
-
-https://github.com/user-attachments/assets/placeholder
-
 ## Features
 
 - Custom physics engine — gravity, jump velocity, and ground collision handled manually
